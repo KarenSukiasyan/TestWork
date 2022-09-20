@@ -1,2 +1,3 @@
-![Diagram](TestWork.jpg)
+![Diagram](/TestWork.jpg)
+
 
